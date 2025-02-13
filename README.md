@@ -15,8 +15,7 @@ i have technical experiences and interests in the following  :
 * generative AI
 
 * math , physics  , chimestry  , biology.....
-* manim
-languages and tools i am frequent to use :
+* manim ,languages  and tools i am frequent to use :
 
 <a href="https://www.arduino.cc/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" style="width:50px;height:50px;">
@@ -58,10 +57,10 @@ languages and tools i am frequent to use :
 
 
 
-- 🌱 I’m currently learning : docker , compression algorithms
+- 🌱 I’m currently learning : docker , large language models , ip-networking ....
 
 
-- ⚡ Fun fact: i am  19 yo  !
+- ⚡ Fun fact: i am  20 yo  !
 
 <!---
 soheib-man/soheib-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
