@@ -3,7 +3,7 @@ welcome welcome ,  guys and gals 👋 :
 
   # i am soheib  
 
- engineer  | roboticien | python developer 
+ engineer  | roboticien | Ai developer 
  -
 i have technical experiences and interests in the following  :
 * telecommunication engineering 
@@ -57,7 +57,7 @@ i have technical experiences and interests in the following  :
 
 
 
-- 🌱 I’m currently learning : docker , large language models , ip-networking ....
+- 🌱 I’m currently learning : docker , large language models , ip-networking ,  ....
 
 
 - ⚡ Fun fact: i am  20 yo  !
