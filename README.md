@@ -1,21 +1,18 @@
 welcome welcome ,  guys and gals 👋 :
 -
 
-  # i am soheib  
+  # i am soheib   a 4TH year engineering student
 
  engineer  | roboticien | Ai developer 
  -
 i have technical experiences and interests in the following  :
-* telecommunication engineering 
-* machine learning
-* Deep Learning
-* Computer vision
-* Microcontrollers
-* Robotics
-* generative AI
-
-* math , physics  , chimestry  , biology.....
-* manim ,languages  and tools i am frequent to use :
+* telecommunication engineering ( signal/audio processing  ,  HF circuits , network engineering , iot ....)
+* artificial intelligence (deep learning , machine learnine  , nlp , transformers .....)
+* Computer vision ( VIT , CCT , OCR , image processing ....)
+* Robotics (3D CAD with solidworks / fusion360, electronics , microcontrollers such as arduino / esp32 / STM32 / learning FPGA ....) 
+* generative AI ( audio / image enhancements ) 
+* advanced mathemathics ( 
+* tools i am frequent to use  :
 
 <a href="https://www.arduino.cc/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" style="width:50px;height:50px;">
@@ -57,7 +54,7 @@ i have technical experiences and interests in the following  :
 
 
 
-- 🌱 I’m currently learning : docker , large language models , ip-networking ,  ....
+- 🌱 I’m currently learning :  GO Language ,  , advanced ip-networking ,  ....
 
 
 - ⚡ Fun fact: i am  20 yo  !
